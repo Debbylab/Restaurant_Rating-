@@ -43,3 +43,6 @@ To analyze consumer ratings and supply-demand metrics across various restaurants
 - Restaurant performance varies significantly by location — Cuernavaca and San Luis Potosí show strong contenders.
 
 ## ![Screenshot]()
+![Dashboard](https://github.com/Debbylab/Restaurant_Rating-/blob/main/Restaurant%20Rating%20Insight.png)
+![Modeling](https://github.com/Debbylab/Restaurant_Rating-/blob/main/Restaurant%20Rating%20Modeling.png)
+![Cleaning](https://github.com/Debbylab/Restaurant_Rating-/blob/main/Restaurant%20Rating%20Data%20Cleaning.png)
